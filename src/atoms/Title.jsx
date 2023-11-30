@@ -1,9 +1,10 @@
 import React from 'react'
 
+import './styles/Title.css'
 function Title() {
   return (
     <div>
-      <p>Exercicios</p>
+      <p className='titulo'>Exercicios</p>
     </div>
   )
 }
