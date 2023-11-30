@@ -5,4 +5,7 @@
     flex-direction: row;
     background-color: #29292E;
     border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
 }

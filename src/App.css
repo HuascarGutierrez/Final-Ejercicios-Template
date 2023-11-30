@@ -2,4 +2,12 @@
   font-family: 'Merriweather Sans', sans-serif;
   font-family: 'Roboto', sans-serif;
   background-color: #181616;
+  height: max-content;
+}
+div {
+  background-color: transparent;
+}
+body {
+  display: flex;
+  justify-content: center;
 }

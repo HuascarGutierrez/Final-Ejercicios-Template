@@ -4,9 +4,10 @@ import Top from '../molecules/Top'
 import Ejercicio from '../organisms/Ejercicio'
 import { ejercicios } from '../assets/ExercisesAPI'
 
+import './styles/ListaEjercicios.css'
 function ListaEjercicios() {
   return (
-    <div>
+    <div className='lista'>
       <Top/>
       {
         ejercicios.map(
