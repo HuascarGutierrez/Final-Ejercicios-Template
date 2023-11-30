@@ -1,0 +1,8 @@
+.ejercicio {
+    width: 364px;
+    height: 83px;
+    display: flex;
+    flex-direction: row;
+    background-color: #29292E;
+    border-radius: 8px;
+}

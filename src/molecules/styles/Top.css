@@ -1,0 +1,10 @@
+.top {
+    display: flex;
+    flex-direction: row;
+    width: 364px;
+    height: 26px;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    align-items: center;
+
+}
