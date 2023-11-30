@@ -1,9 +1,10 @@
 import React from 'react'
 
+import "./styles/NameEx.css"
 function NameEx(props) {
   return (
     <div>
-      <p>{props.name}</p>
+      <p className='nombre'>{props.name}</p>
     </div>
   )
 }
