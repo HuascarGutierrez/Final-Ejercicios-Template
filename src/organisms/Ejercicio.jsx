@@ -8,7 +8,7 @@ function Ejercicio(props) {
   return (
     <div>
       <Imagen imgUrl={ejercicio.imgUrl}/>
-      <Description name={ejercicio.name} serie={ejercicio.serie}/>
+      <Description name={ejercicio.name} series={ejercicio.series}/>
       <Flecha/>
     </div>
   )

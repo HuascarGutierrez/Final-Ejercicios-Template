@@ -6,7 +6,7 @@ function Description(props) {
   return (
     <div>
       <NameEx name={props.name}/>
-      <Serie serie={props.serie}/>
+      <Serie series={props.series}/>
     </div>
   )
 }
